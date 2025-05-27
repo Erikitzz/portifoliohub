@@ -6,8 +6,14 @@
 
   <h2>Google Drive</h2>
   <ul>
-    <li>Pastas com Projetos</li>
-    <li>Outras bibliotecas/frameworks relevantes</li>
+
+  <ul>
+    <li><a href="https://drive.google.com/drive/folders/1iMdypn3KTvPpwoMchELqV0TBsl-wIlAa?usp=drive_link" target="_blank">Pasta com Projetos Acadêmicos</a></li>
+    <li><a href="https://github.com/seu-usuario/projeto-algoritmos" target="_blank">Projeto de Algoritmos e Estruturas de Dados</a></li>
+    <li><a href="https://github.com/seu-usuario/projeto-eng-software" target="_blank">Projeto de Engenharia de Software</a></li>
+    <li><a href="https://github.com/seu-usuario/projeto-redes" target="_blank">Simulador de Redes de Computadores</a></li>
+  </ul>
+
   </ul>
 
   <h2>Google Calendar</h2>
