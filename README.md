@@ -1,44 +1,12 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>README - Nome do Projeto</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #005f99;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 1rem;
-      overflow-x: auto;
-    }
-    a {
-      color: #007acc;
-    }
-  </style>
 </head>
 <body>
 
-  <h1>Nome do Projeto</h1>
-  <p>Descrição breve do projeto. Explique o que ele faz, por que é útil ou interessante.</p>
+  <h1>Central de Projetos</h1>
+  <p>O projeto consiste na criação de uma central digital de projetos acadêmicos, que funciona como um portfólio técnico e profissional. Esse projeto tem como objetivo reunir, organizar e apresentar projetos desenvolvidos de forma segura, estruturada e colaborativa, utilizando ferramentas amplamente adotadas no ambiente corporativo e educacional.</p>
 
-  <h2>📦 Tecnologias Utilizadas</h2>
+  <h2>Google Drive</h2>
   <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
+    <li>Pastas com Projetos</li>
     <li>Outras bibliotecas/frameworks relevantes</li>
   </ul>
 
@@ -54,7 +22,7 @@
   <p>Este projeto está licenciado sob a <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
 
   <h2>👤 Autor</h2>
-  <p>Desenvolvido por <strong>Seu Nome</strong> - <a href="https://github.com/seu-usuario" target="_blank">GitHub</a></p>
+  <p>Desenvolvido por <strong>Érik Santana</strong> - <a href="https://github.com/Erikitzz" target="_blank">GitHub</a></p>
 
 </body>
 </html>
