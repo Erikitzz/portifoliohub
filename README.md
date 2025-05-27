@@ -9,16 +9,13 @@
 
   <ul>
     <li><a href="https://drive.google.com/drive/folders/1iMdypn3KTvPpwoMchELqV0TBsl-wIlAa?usp=drive_link" target="_blank">Pasta com Projetos Acadêmicos</a></li>
-    <li><a href="https://github.com/seu-usuario/projeto-algoritmos" target="_blank">Projeto de Algoritmos e Estruturas de Dados</a></li>
-    <li><a href="https://github.com/seu-usuario/projeto-eng-software" target="_blank">Projeto de Engenharia de Software</a></li>
-    <li><a href="https://github.com/seu-usuario/projeto-redes" target="_blank">Simulador de Redes de Computadores</a></li>
   </ul>
 
   </ul>
 
   <h2>Google Calendar</h2>
   <ul>
-    <li>Cronograma para a Entrega Final</li>
+    <li><a href="https://calendar.google.com/calendar/u/1/r?pli=1" target="_blank">Cronograma Planejado</a></li>
     <li>Entre na pasta do projeto:<br><code>cd seu-repositorio</code></li>
     <li>Instale as dependências (se houver):<br><code>npm install</code></li>
     <li>Execute o projeto:<br><code>npm start</code></li>
