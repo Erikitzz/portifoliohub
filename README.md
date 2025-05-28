@@ -1,21 +1,9 @@
 </head>
 <body>
 
-  <h1>Central de Projetos</h1>
-  <p>O projeto consiste na criação de uma central digital de projetos acadêmicos, que funciona como um portfólio técnico e profissional. Esse projeto tem como objetivo reunir, organizar e apresentar projetos desenvolvidos de forma segura, estruturada e colaborativa, utilizando ferramentas amplamente adotadas no ambiente corporativo e educacional.</p>
+  <h1>Mini Calculadora</h1>
+  <p>Este projeto é uma calculadora simples desenvolvida com HTML, CSS e JavaScript, que realiza a soma de dois números digitados pelo usuário. Ele é composto por três arquivos principais: um HTML para estruturar a página, um CSS para definir o estilo visual e um JavaScript para implementar a lógica da soma. No arquivo HTML, há dois campos de entrada onde o usuário digita os números e um botão que, ao ser clicado, executa uma função chamada somar(). Essa função está no arquivo script.js e é responsável por capturar os valores digitados, convertê-los de texto para número com parseFloat(), realizar a operação de adição e exibir o resultado em um parágrafo na tela. O CSS centraliza o conteúdo e dá um visual básico, aplicando margens, bordas e fontes mais agradáveis. Esse projeto é totalmente estático, ou seja, não depende de servidor ou banco de dados, podendo ser aberto diretamente em um navegador com um clique duplo no arquivo index.html. Ele é ideal para iniciantes que querem aprender os conceitos básicos de manipulação de DOM, eventos em JavaScript e estruturação de páginas com HTML e CSS.</p>
 
-  <h2>Google Drive</h2>
-
-  <ul>
-    <li><a href="https://drive.google.com/drive/folders/1iMdypn3KTvPpwoMchELqV0TBsl-wIlAa?usp=drive_link" target="_blank">Pasta com Projetos Acadêmicos</a></li>
-  </ul>
-
-  </ul>
-
-  <h2>Google Calendar</h2>
-  <ul>
-    <li><a href="https://calendar.google.com/calendar/u/1/r?pli=1" target="_blank">Cronograma Planejado</a></li>
-  </ul>
 
   <h2>👤 Autor</h2>
   <p>Desenvolvido por <strong>Érik Santana</strong> - <a href="https://github.com/Erikitzz" target="_blank">GitHub</a></p>
